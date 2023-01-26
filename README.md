@@ -26,3 +26,8 @@ Assim que selecionar a COM e o baud correto e clicar em “Connect”, a conexã
 <img src = "https://user-images.githubusercontent.com/93883349/214722250-c37c4ec6-5826-4322-a08e-d27267d7a8cb.png"/>
 </div>
 
+# Pré requisisitos para rodar
+
+* Python 3.11 ou mais recente
+* Instalar PyQt (pip install PyQt6)
+* Arduino Uno, Nano ou semelhantes
