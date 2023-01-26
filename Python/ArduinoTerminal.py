@@ -13,7 +13,7 @@ class Windows(QWidget):
       self.initUI()
       
    def initUI(self):
-      self.setWindowIcon(QIcon("led-icon.png"))
+      self.setWindowIcon(QIcon("Python/led-icon.png"))
       self.setWindowTitle("Serial LED Control")
       self.setContentsMargins(20, 20, 20, 20)
       # self.resize(400, 170)
