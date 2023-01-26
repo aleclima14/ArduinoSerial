@@ -11,7 +11,7 @@ Nesse exemplo foi implementado uma lista suspensa com as portas COM disponíveis
 <br>
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/93883349/214720158-f7d5c9a4-e401-44c9-a16b-cb7c42a564b4.png"/>
+<img src = "https://user-images.githubusercontent.com/93883349/214727183-10fc58c7-aa70-40c9-86b8-0c63a2af31cd.gif"/>
 </div>
 
 <br>
@@ -23,7 +23,7 @@ Assim que selecionar a COM e o baud correto e clicar em “Connect”, a conexã
 <br>
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/93883349/214722250-c37c4ec6-5826-4322-a08e-d27267d7a8cb.png"/>
+<img src = "https://user-images.githubusercontent.com/93883349/214727467-bfd7ff19-bb8b-40f8-82c4-05b9289b2988.gif"/>
 </div>
 
 # Pré requisisitos para rodar
