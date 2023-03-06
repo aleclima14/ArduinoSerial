@@ -113,15 +113,14 @@ class Windows(QWidget):
       self.readStatusLed()
      
    def readStatusLed(self):
-      valorLido = str(self.serialPort.readAll())
-      self.serialReadLabel.setText(valorLido)
+      valorLido = self.serialPort.readLine()
+      self.serialReadLabel.setText(str(valorLido, 'utf-8'))
+      valorLido = ""
 
 def window():
    applicationWindow = QApplication(sys.argv)
    windowApp = Windows()
-
    windowApp.show()
-
    sys.exit(applicationWindow.exec())
 
 window()
