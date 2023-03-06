@@ -17,7 +17,7 @@ Nesse exemplo foi implementado uma lista suspensa com as portas COM disponíveis
 <br>
 
 <div align="justify">
-Assim que selecionar a COM e o baud correto e clicar em “Connect”, a conexão será estabelecida e os botões “LED ON” e “LED OFF” serão habilitados. Ao serem clicados, o comando correspondente é enviado ao Arduino e o LED da placa (ou da porta escolhida) acenderá ou apagará. Ao clicar em "Desconnect" a conexão será encerrada. 
+Assim que selecionar a COM e o baud correto e clicar em “Connect”, a conexão será estabelecida e os botões “LED ON” e “LED OFF” serão habilitados. Ao serem clicados, o comando correspondente é enviado ao Arduino e o LED da placa (ou da porta escolhida) acenderá ou apagará. Ao clicar em "Disconnect" a conexão será encerrada. 
 </div>
 
 <br>
